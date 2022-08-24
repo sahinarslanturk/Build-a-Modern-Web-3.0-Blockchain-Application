@@ -7,11 +7,11 @@ I built a your first real Web 3.0 Application - from start to finish.
 
 #References & Materials
 
-Tailwind Setup - https://tailwindcss.com/docs/installation
-Tailwind Docs - https://tailwindcss.com/docs/guides/create-react-app
-Ropsten Faucet has been deprecated. You can use Goerli.
-Etherscan - https://goerli.etherscan.io/
-Alchemy - https://alchemy.com
+-Tailwind Setup - https://tailwindcss.com/docs/installation
+-Tailwind Docs - https://tailwindcss.com/docs/guides/create-react-app
+-Ropsten Faucet has been deprecated. You can use Goerli.
+-Etherscan - https://goerli.etherscan.io/
+-Alchemy - https://alchemy.com
 
 In this project:
 - How to connect a regular React.js application to the blockchain and pair it to your Ethereum wallet using MetaMask
